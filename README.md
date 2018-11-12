@@ -1,6 +1,6 @@
 
 
-#Feed Reader Testing
+# Feed Reader Testing
 ## Project Overview
 
 In this project I was given a web-based application that reads RSS feeds. I then used [Jasmine](http://jasmine.github.io/) to write a series of tests on the application.
